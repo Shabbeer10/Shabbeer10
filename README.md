@@ -25,6 +25,7 @@ Frontend: React
 Backend: Node.js, Express
 Database: Firebase, MongoDB
 Tools: GitLab CI/CD
+
 📫 Let's Connect!
 💌 Email: [shabbeerpetersen10@gmail.com]
 🌐 Portfolio: [https://shabbeerportfolio.netlify.app]
