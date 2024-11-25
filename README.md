@@ -13,15 +13,14 @@ JavaScript: Deep diving into functions and ES modules
 🌱 Fun Facts
 
 💻 I like using AI tools to assist with coding (but I love learning and improving my skills manually too!)
-🇿🇦 Based in South Africa and aligned with local regulations
 
 
 🛠 My Tech Stack
-Languages: JavaScript, Python
+Languages: JavaScript, Python, Java
 Frontend: React
 Backend: Node.js, Express
 Database: Firebase, MongoDB
-Tools: GitLab CI/CD
+Tools: GitLab CI/CD, Render
 
 📫 Let's Connect!
 💌 Email: [shabbeerpetersen10@gmail.com]
