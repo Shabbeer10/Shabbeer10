@@ -16,7 +16,7 @@ JavaScript: Deep diving into functions and ES modules
 
 
 🛠 My Tech Stack
-Languages: JavaScript, Python, Java
+Languages: JavaScript
 Frontend: React
 Backend: Node.js, Express
 Database: Firebase, MongoDB
